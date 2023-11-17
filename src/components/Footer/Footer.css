@@ -1,0 +1,19 @@
+.footer{
+    background-color: rgb(99, 104, 108);
+    color: whitesmoke;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer>p{
+    padding: 0;
+    margin: 0;
+}
+
+.logo{
+    cursor: pointer;
+}

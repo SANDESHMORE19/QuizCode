@@ -1,0 +1,52 @@
+.card{
+    width: 100%;
+    color: aliceblue;
+    margin: 5rem;
+    border-radius: 5px;
+    box-shadow: rgba(151, 145, 145, 0.4) 0px 2px 4px, rgba(173, 164, 164, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    }
+    
+    /* CSS */
+    .button-36 {
+      padding: 12px 26px;
+      padding-bottom: 18px;
+      border: 0;
+      font-size: 14px;
+      transition: all 150ms ease-in-out;
+      border-radius: 18px;
+      color: #071432;
+      margin: 2rem;
+      font-weight:bold;
+      background: rgb(44, 244, 157);
+      box-shadow: rgba(99, 99, 99, 0.817) 0 1px 4px 0, inset 0px -6px 0px rgba(0, 0, 0, 0.1), inset 0px -2px 0px rgba(0, 0, 0, 0.15);
+    }
+    
+    .button-36:hover {
+      filter: brightness(0.98);
+    }
+    
+    .button-36:active {
+      filter: brightness(0.97);
+      padding-top: 15px;
+      padding-bottom: 15px;
+      box-shadow: rgba(99, 99, 99, 0.2) 0 2px 4px 0, inset 0px -1px 0px rgba(0, 0, 0, 0.15);
+    }
+    
+
+.card-title{
+    font-size: larger;
+    font-weight: bolder;
+    margin-bottom: 2rem;
+}
+.card-body{
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+.card-img-top{
+    
+    width: 100%;
+    height: 30rem;
+    border-radius: 5px;
+    object-fit: cover;
+}

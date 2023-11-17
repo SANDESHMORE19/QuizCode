@@ -1,0 +1,114 @@
+
+[
+    {
+      "id": 1,
+      "question": "What does HTML stand for?",
+      "options": [
+        "Hyper Text Markup Language",
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyper Transfer Markup Language"
+      ],
+      "correctOption": "Hyper Text Markup Language"
+    },
+    {
+      "id": 2,
+      "question": "Which HTML element is used to define the structure of an HTML document?",
+      "options": [
+        "<head>",
+        "<body>",
+        "<html>",
+        "<doctype>"
+      ],
+      "correctOption": "<html>"
+    },
+    {
+      "id": 3,
+      "question": "What is the purpose of the HTML <meta> tag?",
+      "options": [
+        "To define a paragraph",
+        "To define metadata about an HTML document",
+        "To create a hyperlink",
+        "To embed multimedia"
+      ],
+      "correctOption": "To define metadata about an HTML document"
+    },
+    {
+      "id": 4,
+      "question": "Which HTML element is used to link an external CSS file?",
+      "options": [
+        "<link>",
+        "<style>",
+        "<css>",
+        "<script>"
+      ],
+      "correctOption": "<link>"
+    },
+    {
+      "id": 5,
+      "question": "What is the purpose of the HTML <img> tag?",
+      "options": [
+        "To create a table",
+        "To embed an image in a web page",
+        "To define a form",
+        "To add a list"
+      ],
+      "correctOption": "To embed an image in a web page"
+    },
+    {
+      "id": 6,
+      "question": "Which HTML element is used to create an unordered list?",
+      "options": [
+        "<ol>",
+        "<li>",
+        "<ul>",
+        "<list>"
+      ],
+      "correctOption": "<ul>"
+    },
+    {
+      "id": 7,
+      "question": "In HTML, which attribute is used to specify the alternate text for an image?",
+      "options": [
+        "src",
+        "alt",
+        "title",
+        "link"
+      ],
+      "correctOption": "alt"
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of the HTML <a> tag?",
+      "options": [
+        "To define a heading",
+        "To create a hyperlink",
+        "To add a line break",
+        "To create a division"
+      ],
+      "correctOption": "To create a hyperlink"
+    },
+    {
+      "id": 9,
+      "question": "Which HTML element is used to define a table?",
+      "options": [
+        "<table>",
+        "<tr>",
+        "<td>",
+        "<th>"
+      ],
+      "correctOption": "<table>"
+    },
+    {
+      "id": 10,
+      "question": "What does the HTML acronym DOCTYPE stand for?",
+      "options": [
+        "Document Object Type",
+        "Document Opening Type",
+        "Document Office Type",
+        "Document Type Declaration"
+      ],
+      "correctOption": "Document Type Declaration"
+    }
+  ]
+  
